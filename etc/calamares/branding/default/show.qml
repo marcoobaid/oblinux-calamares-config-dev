@@ -78,7 +78,7 @@ Presentation
         console.log("QML Component (default slideshow) activated");
         presentation.currentSlide = 0;
     }
-    
+
     function onLeave() {
         console.log("QML Component (default slideshow) deactivated");
     }
